@@ -1,0 +1,12 @@
+# hexo robots.txt
+User-agent: *
+
+Allow: /
+
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+Disallow: /404.html
+Disallow: /search.xml
+
+Sitemap: https://blog.caodong.me/sitemap.xml
