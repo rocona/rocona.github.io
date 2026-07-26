@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2">
+            <circle id="椭圆形" stroke="#6D7278" fill-opacity="0.85" fill="#000000" cx="150" cy="150" r="149.5"></circle>
+            <g id="编组" transform="translate(65.456263, 110.495715)">
+                <text id="caodong" font-family="PingFangSC-Semibold, PingFang SC" font-size="30" font-weight="500" fill="#FFFFFF">
+                    <tspan x="36.5437373" y="48.5042855">caodong</tspan>
+                </text>
+                <polyline id="路径" stroke="#FFFFFF" stroke-width="5" points="80 17.5007148 80 0 0.0906660531 0 0 80 80 80 80 62.4988771"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
